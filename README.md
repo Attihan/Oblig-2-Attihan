@@ -17,3 +17,5 @@ Ettersom brukeren legger inn all informasjonen som er krevd, skal det opprettes 
 Om man ikke legger inn riktig informasjon ved input-boksene, så kommer det opp en melding at informasjon er nødvendig ved denne input-boksen. Samtidig så kan brukeren ikke skrive inn bokstaver ved telefonnummer, heller ikke skrive antall biletter under 0 eller over 50.
 
 Om man vil slette radene av informasjon oppgitt av bruker, så kan man trykke på knappen nederst på applikasjonen. Denne sletter alle radene.
+
+Endret slik at vediene går gjennom Spring Web, i tilegg så er index.html stylet med bootstrap. Denne nettsiden bruker GET og POST. 
